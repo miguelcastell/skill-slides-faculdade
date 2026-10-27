@@ -1,0 +1,8 @@
+{
+  "name": "slides-faculdade",
+  "private": true,
+  "description": "Monta o .pptx dos slides de apresentação (ver construir.py)",
+  "dependencies": {
+    "pptxgenjs": "3.12.0"
+  }
+}

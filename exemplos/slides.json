@@ -1,0 +1,8 @@
+{
+  "nome": "Fulano de Tal",
+  "titulo": "Atividades - {nome}",
+  "subtitulo": "Tasks",
+  "logo": "",
+  "destino": "docs",
+  "arquivo": "Sprint {sprint:02d} - {nome}"
+}
